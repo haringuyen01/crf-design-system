@@ -1,0 +1,113 @@
+
+/*
+ =========================================================
+ * CRF• Design System - v1.0.0
+ =========================================================
+
+ * Product Page: https://github.com/lucthienphong1120/crf-design-system
+ * Copyright 2018 Luc Thien Phong (http://www.ltp110.tk)
+
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+ // Core
+
+@import "crf-design-system/custom/functions";
+@import "crf-design-system/bootstrap/functions";
+
+@import "crf-design-system/custom/variables";
+@import "crf-design-system/bootstrap/variables";
+
+@import "crf-design-system/custom/mixins";
+@import "crf-design-system/bootstrap/mixins";
+
+ // Bootstrap components
+
+@import "crf-design-system/bootstrap/root";
+@import "crf-design-system/bootstrap/reboot";
+@import "crf-design-system/bootstrap/type";
+@import "crf-design-system/bootstrap/images";
+@import "crf-design-system/bootstrap/code";
+@import "crf-design-system/bootstrap/grid";
+@import "crf-design-system/bootstrap/tables";
+@import "crf-design-system/bootstrap/forms";
+@import "crf-design-system/bootstrap/buttons";
+@import "crf-design-system/bootstrap/transitions";
+@import "crf-design-system/bootstrap/dropdown";
+@import "crf-design-system/bootstrap/button-group";
+@import "crf-design-system/bootstrap/input-group";
+@import "crf-design-system/bootstrap/custom-forms";
+@import "crf-design-system/bootstrap/nav";
+@import "crf-design-system/bootstrap/navbar";
+@import "crf-design-system/bootstrap/card";
+@import "crf-design-system/bootstrap/breadcrumb";
+@import "crf-design-system/bootstrap/pagination";
+@import "crf-design-system/bootstrap/badge";
+@import "crf-design-system/bootstrap/jumbotron";
+@import "crf-design-system/bootstrap/alert";
+@import "crf-design-system/bootstrap/progress";
+@import "crf-design-system/bootstrap/media";
+@import "crf-design-system/bootstrap/list-group";
+@import "crf-design-system/bootstrap/close";
+@import "crf-design-system/bootstrap/modal";
+@import "crf-design-system/bootstrap/tooltip";
+@import "crf-design-system/bootstrap/popover";
+@import "crf-design-system/bootstrap/carousel";
+@import "crf-design-system/bootstrap/utilities";
+@import "crf-design-system/bootstrap/print";
+
+ // Custom components
+
+ @import "crf-design-system/custom/alerts.scss";
+ @import "crf-design-system/custom/buttons.scss";
+ @import "crf-design-system/custom/dropdown.scss";
+ @import "crf-design-system/custom/footer.scss";
+ @import "crf-design-system/custom/forms.scss";
+ @import "crf-design-system/custom/images.scss";
+ @import "crf-design-system/custom/modal.scss";
+ @import "crf-design-system/custom/navbar.scss";
+ @import "crf-design-system/custom/type.scss";
+ @import "crf-design-system/custom/icons.scss";
+ @import "crf-design-system/custom/tables";
+ @import "crf-design-system/custom/checkboxes-radio";
+ @import "crf-design-system/custom/fixed-plugin";
+ @import "crf-design-system/custom/pagination.scss";
+ @import "crf-design-system/custom/misc.scss";
+ @import "crf-design-system/custom/rtl.scss";
+ @import "crf-design-system/custom/input-group.scss";
+ @import "crf-design-system/custom/example-pages.scss";
+ @import "crf-design-system/custom/progress.scss";
+ @import "crf-design-system/custom/badge.scss";
+ @import "crf-design-system/custom/pills.scss";
+ @import "crf-design-system/custom/tabs.scss";
+ @import "crf-design-system/custom/info-areas.scss";
+
+// Sections
+@import "crf-design-system/custom/sections.scss";
+
+
+
+ // Vendor / Plugins
+
+@import "crf-design-system/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "crf-design-system/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "crf-design-system/custom/vendor/plugin-bootstrap-switch.scss";
+@import "crf-design-system/custom/vendor/plugin-nouislider.scss";
+@import "crf-design-system/custom/vendor/plugin-datetimepicker.scss";
+
+
+// Cards
+
+@import 'crf-design-system/custom/card';
+@import "crf-design-system/custom/cards/card-chart";
+@import "crf-design-system/custom/cards/card-map";
+@import "crf-design-system/custom/cards/card-user";
+@import "crf-design-system/custom/cards/card-task";
+@import "crf-design-system/custom/cards/card-plain";
+@import "crf-design-system/custom/cards/card-register";
+@import "crf-design-system/custom/cards/card-stats";
+@import "crf-design-system/custom/cards/card-chart";
